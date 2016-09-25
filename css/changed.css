@@ -1,0 +1,14 @@
+a:hover.button
+{
+	background-color: #11ABB0 !important;
+}
+
+a[title="Styleshout"]
+{
+	color: #FFF;
+}
+
+a:hover[title="Styleshout"]
+{
+	color: #11ABB0;
+}
